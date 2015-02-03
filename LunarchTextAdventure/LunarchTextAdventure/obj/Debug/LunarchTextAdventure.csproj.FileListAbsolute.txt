@@ -1,1 +1,6 @@
 c:\users\faggot\documents\visual studio 2013\Projects\LunarchTextAdventure\LunarchTextAdventure\bin\Debug\LunarchTextAdventure.exe.config
+c:\users\faggot\documents\visual studio 2013\Projects\LunarchTextAdventure\LunarchTextAdventure\obj\Debug\LunarchTextAdventure.csprojResolveAssemblyReference.cache
+c:\users\faggot\documents\visual studio 2013\Projects\LunarchTextAdventure\LunarchTextAdventure\bin\Debug\LunarchTextAdventure.exe
+c:\users\faggot\documents\visual studio 2013\Projects\LunarchTextAdventure\LunarchTextAdventure\bin\Debug\LunarchTextAdventure.pdb
+c:\users\faggot\documents\visual studio 2013\Projects\LunarchTextAdventure\LunarchTextAdventure\obj\Debug\LunarchTextAdventure.exe
+c:\users\faggot\documents\visual studio 2013\Projects\LunarchTextAdventure\LunarchTextAdventure\obj\Debug\LunarchTextAdventure.pdb
