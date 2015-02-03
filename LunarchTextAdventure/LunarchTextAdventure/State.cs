@@ -42,7 +42,7 @@ namespace LunarchTextAdventure
                     else if (n == 2)
                         output = output + "To your " + currentElement.Key + ", there's " + stateDict[currentElement.Value].name + ". ";
                     else
-                        output = output + TextWrapper.UppercaseFirst(stateDict[currentElement.Value].name) + " is to the " + currentElement.Key + ". ";
+                        output = output + TextHelper.UppercaseFirst(stateDict[currentElement.Value].name) + " is to the " + currentElement.Key + ". ";
                 }
                 else
                 {

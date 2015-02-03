@@ -26,13 +26,14 @@ namespace LunarchTextAdventure
 
             while (true)
             {
+                TextHelper.print("\n" + state.description + " " + state.getStateTransitionData(stateDict), consoleWidth);
+
                 if (endgameStates.Contains(state))
                 {
-                    TextWrapper.print("Game over!", consoleWidth);
+                    TextHelper.print("\nGame over!", consoleWidth);
                     Console.ReadLine();
                 }
 
-                TextWrapper.print("\n" + state.description + " " + state.getStateTransitionData(stateDict), consoleWidth);
                 Console.Write("\n\n>> ", consoleWidth);
                 input = Console.ReadLine();
                 state = getNextState(state, input);
