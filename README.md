@@ -6,4 +6,4 @@ This is an epic story about a young boy overcoming hardships to finally acquire 
 Usage
 =====
 
-Download and run!
+Download and run! I haven't packaged it yet, so just stick it in Visual Studio and run that.
